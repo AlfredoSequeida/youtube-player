@@ -1,0 +1,8 @@
+{
+  "name": "youtube player",
+  "developer": "Alfredo Sequeida",
+  "commands": ["play"],
+  "entry-point": "youtube_player.youtube_player",
+  "languages": ["en"],
+  "required_packages": ["pafy", "youtube_search","youtube-dl"]
+}
