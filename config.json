@@ -1,6 +1,7 @@
 {
   "name": "youtube player",
   "developer": "Alfredo Sequeida",
+  "icon": "icon.png",
   "commands": ["play"],
   "entry-point": "youtube_player",
   "languages": ["en"],
